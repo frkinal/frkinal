@@ -29,12 +29,10 @@
 <br/>
 <br/>
 <details>
-<summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=frkinal&theme=tokyonight">
 </details>
 
 <details>
-<summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frkinal&layout=compact">
 </details>
 
