@@ -2,12 +2,14 @@
 <img src="https://media.giphy.com/media/KFP075hQd90nI0xKlB/giphy.gif" align="right" width="400" height="250">
 
 ### Hi there, I'm Omer Faruk 👋.
-## Front-end Developer 
+
+## Front-end Developer
 
 ### Reach out to me
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />][Linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />][Twitter]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />][Instagram]
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" />][twitter]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
@@ -28,13 +30,17 @@
 <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="35" height="35">
 <br/>
 <br/>
+
+<details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=frkinal&theme=tokyonight">
+</details>
 
+<details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frkinal&layout=compact">
+</details>
 
-
-[Linkedin]:https://www.linkedin.com/in/%C3%B6mer-faruk-inal-5b700a19b/
-[Twitter]:https://twitter.com/frkinal
-[Instagram]:https://www.instagram.com/frkinal/
+[linkedin]: https://www.linkedin.com/in/%C3%B6mer-faruk-inal-5b700a19b/
+[twitter]: https://twitter.com/frkinal
+[instagram]: https://www.instagram.com/frkinal/
