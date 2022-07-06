@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma&theme=onedark/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frkinal" alt="frkinal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frkinal&theme=onedark" alt="frkinal" /></a> </p>
 
 - 💬 Ask me about **React-Native**
 
