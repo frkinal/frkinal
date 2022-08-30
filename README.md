@@ -24,6 +24,5 @@
 <div >
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frkinal&show_icons=true&theme=dark&locale=en&layout=compact" alt="frkinal" /></p>
----
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frkinal&show_icons=true&theme=dark&locale=en" alt="frkinal" /></p>
 </div>
