@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **inalfaruk295@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l6OEHAr_Ext8afp0568-Zz7o0aLXfIUw/view?usp=sharing](https://drive.google.com/file/d/1l6OEHAr_Ext8afp0568-Zz7o0aLXfIUw/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G5u_OjrJM-42Clq2T8ICgXx_XeqhJ-dl/view?usp=share_link](https://drive.google.com/file/d/1G5u_OjrJM-42Clq2T8ICgXx_XeqhJ-dl/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
